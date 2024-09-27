@@ -2020,4 +2020,12 @@ module.exports = [
         icon: "https://i.ibb.co.com/8c1fmGM/IMG-20240921-202013-833.jpg",
         decimal: 6,
     },
+    {
+        protocol: "MEME MAKER",
+        name: "JIL",
+        symbol: "JIL",
+        token: "terra1gpxjwzpv0pedh0eyx7zw0amlss074ptukuvnf3dweg0wthwam0jqcc9lm4",
+        icon: "https://i.ibb.co.com/Hx3FLqc/JIL-new.png",
+        decimal: 6,
+    },
 ]

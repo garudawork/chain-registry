@@ -2350,4 +2350,10 @@ module.exports = [
     name: "NHERA",
     icon: "https://i.ibb.co.com/8c1fmGM/IMG-20240921-202013-833.jpg",
    },
+   {
+    contract: "terra1gpxjwzpv0pedh0eyx7zw0amlss074ptukuvnf3dweg0wthwam0jqcc9lm4",
+    protocol : "Meme Maker",
+    name: "JIL",
+    icon: "https://i.ibb.co.com/Hx3FLqc/JIL-new.png",
+   },
 ]
